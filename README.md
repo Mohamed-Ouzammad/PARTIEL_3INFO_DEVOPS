@@ -29,3 +29,28 @@ Ce dépôt contient un projet Python simple avec :
 7. Rendre le lien de votre répository contenant les github actions que vous aurez implémenté. 
 
 ***Attention à bien mettre votre repository en PUBLIC !***
+
+# Mon Projet Python
+
+![Tests](https://github.com/Mohamed-Ouzammad/PARTIEL_3INFO_DEVOPS/actions/workflows/ci.yml/badge.svg)
+![Lint](https://github.com/Mohamed-Ouzammad/PARTIEL_3INFO_DEVOPS/actions/workflows/ci.yml/badge.svg)
+
+## Description
+
+Ce projet Python inclut :
+
+- Des fonctions pour effectuer des opérations simples.
+- Des tests unitaires pour garantir la fiabilité du code.
+- Un linter pour assurer la qualité du code.
+
+## Workflows GitHub Actions
+
+- **Tests** : Vérifie que les tests unitaires passent correctement.
+- **Lint** : Vérifie la qualité du code avec un linter.
+
+## Installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/Mohamed-Ouzammad/PARTIEL_3INFO_DEVOPS.git
+   cd PARTIEL_3INFO_DEVOPS

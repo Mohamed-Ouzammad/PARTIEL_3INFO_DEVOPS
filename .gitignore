@@ -1,0 +1,21 @@
+# Exclure le dossier __pycache__
+__pycache__/
+
+# Exclure les fichiers .pyc compilés
+*.pyc
+
+# Exclure les fichiers de configuration spécifiques à l'OS
+.DS_Store
+
+# Exclure les environnements virtuels
+venv/
+
+# Exclure les fichiers de log
+*.log
+
+# Exclure les fichiers de sauvegarde
+*.bak
+
+# Exclure les fichiers de configuration de l'éditeur
+.vscode/
+.idea/
